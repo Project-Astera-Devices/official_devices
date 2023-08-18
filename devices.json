@@ -3,6 +3,7 @@
        "name": "Redmi Note 8 Pro",
        "brand": "Xiaomi",
        "codename": "begonia",
+       "maintainer": "EreN",
        "supported_versions": [
           {
              "version_code": "thundra",
