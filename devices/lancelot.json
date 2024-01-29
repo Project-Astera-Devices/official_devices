@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Orkun Ergün",
+			"oem": "Xiaomi",
+			"device": "Redmi 9",
+			"filename": "",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": Thurisu,
+			"buildtype": "OFFICIAL",
+			"forum": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/orkunergun",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
